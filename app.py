@@ -1,7 +1,7 @@
 # import streamlit as st
 # import google.generativeai as genai
 
-# genai.configure(api_key = "AIzaSyB4tK6azgrb_-VQSgsNT2BW29ABjwaxJII")
+# genai.configure(api_key = "AIzaSyAXQ2pvBuaCGp44SaUEgWYdpE_QPNdEOP4")
 
 # llm = genai.GenerativeModel("models/gemini-1.5-flash")
 
